@@ -14,11 +14,11 @@ This dataset contains airport information used to generate random destinations.
 
 Example fields:
 
-Field	Description
-ident	Airport identifier
-name	Airport name
-iso_country	Country code
-type	Airport category
+Field		|	Description
+ident		|   Airport identifier
+name		|	Airport name
+iso_country	|	Country code
+type		|	Airport category
 
 The game loads airport data automatically when the program starts.
 
