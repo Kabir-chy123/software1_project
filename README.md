@@ -105,13 +105,14 @@ Deliver a cinematic experience within a terminal environment
 Possible future additions:
 
 Save and resume game feature
-
 Sound effects
-
 ASCII storm animations
-
 Expanded story branches
-
 Additional airports
-
 Online leaderboard
+
+🌠 Final Transmission
+
+“Through storm and silence, you proved humanity can still fly.”
+
+Good luck, Pilot.
